@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img style="width:100%;" src="./image/banner" alt="Angus, Full Stack Developer">
+<img style="width:100%;" src="./images/banner" alt="Angus, Full Stack Developer">
 <!--
 **angusedwards64/angusedwards64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
